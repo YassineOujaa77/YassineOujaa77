@@ -1,9 +1,9 @@
-### Hello This is Ayoub Kassi 👋
+### Hello This is Yassine Oujaa 👋
 **I was never the best at school or academics, I’m just a super curious guy 🔭**
 
-[MyPortfolio](https://ayoubkassi.cf/)
+[MyPortfolio](https://yassine.netlify.app/)
 
-![MySkills](https://github-readme-stats.vercel.app/api?username=Ayoubkassi&show_icons=true&theme=radical)
+![MySkills](https://github-readme-stats.vercel.app/api?username=YassineOujaa77&show_icons=true&theme=radical)
 
 
 
